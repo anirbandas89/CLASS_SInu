@@ -1,3 +1,4 @@
 # class_SInu
-CLASS code for self-interacting massless neutrinos
+CLASS code for self-interacting massless neutrinos.
+
 Coming soon!
