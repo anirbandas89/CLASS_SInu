@@ -1,4 +1,4 @@
-# class_SInu
+# CLASS_SInu
 CLASS code for computing the CMB anisotropy power spectra and the matter power spectrum with massless self-interacting neutrinos.
 
 **Requirements:**
@@ -18,6 +18,10 @@ N.B.- Alongwith N_idr, one can use the usual N_ur parameter for relativistic spe
 1. The _idm_ species has been deactivated in the code. Therefore, always set Omega_idm_dr = 0.
 2. The default N_ur has been set to 0.
 
+**Authors**
+
+Anirban Das & Subhajit Ghosh
+
 **Citation**
 
-If you use the code, please cite this repository and the associated paper https://arxiv.org/abs/2011.12315.
+If you use the code, please cite this repository and the associated paper https://arxiv.org/abs/2011.12315 and the original CLASS paper https://arxiv.org/abs/1104.2933.
