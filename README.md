@@ -24,4 +24,4 @@ Anirban Das & Subhajit Ghosh
 
 **Citation**
 
-If you use the code, please cite this repository and the associated paper https://arxiv.org/abs/2011.12315 and the original CLASS paper https://arxiv.org/abs/1104.2933.
+If you use the code in your work, please cite this repository, the associated paper https://arxiv.org/abs/2011.12315, and the original CLASS paper https://arxiv.org/abs/1104.2933.
