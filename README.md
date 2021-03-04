@@ -8,8 +8,11 @@ Same as CLASS version 2.9.0
 **Key Changes:**
 
 The _idr_ species in CLASS is being used as the interacting neutrinos. The example input file sinu_example.ini explains the new input parameters.
+
 N_idr -- Number of neutrino species
+
 xi_idr -- Temperature of neutrino relative to photon
+
 log_G_eff_idr_i -- The 4-Fermi coupling strength for the i-th neutrino species
 
 N.B.- Alongwith N_idr, one can use the usual N_ur parameter for relativistic species. However, the N_ur part will not have self-interaction.
